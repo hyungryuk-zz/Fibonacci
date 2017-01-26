@@ -1,0 +1,2 @@
+//code
+#include<stdio.h>
